@@ -1,0 +1,22 @@
+server:
+  port: 8089
+
+#spring:
+#  data:
+#    mongodb:
+#      host: 47.101.141.93
+#      port: 27017
+#      database: db_bishuishennong
+#      authentication-database: admin
+#      username: admin
+#      password: password
+
+spring:
+  data:
+    mongodb:
+      host: 47.101.141.93
+      port: 27018
+      database: db_bishui
+      authentication-database: admin
+      username: admin
+      password: admin
